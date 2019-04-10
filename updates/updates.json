@@ -1,0 +1,14 @@
+{
+  "darwin-x64-prod": {
+    "readme": "Prod release",
+    "update": "https://adguardteam.github.io/AdGuardForSafari/updates/prod/release.json",
+    "install": "https://github.com/Mizzick/AdGuardForSafari/releases/download/v1.3.1/AG_Safari_1.3.1_mac.app.zip",
+    "version": "1.3.1"
+  },
+  "darwin-x64-beta": {
+    "readme": "Beta",
+    "update": "https://adguardteam.github.io/AdGuardForSafari/updates/beta/release.json",
+    "install": "https://github.com/Mizzick/AdGuardForSafari/releases/download/v1.3.3-beta/AG_Safari_1.3.3_mac.app.zip",
+    "version": "1.3.3"
+  }
+}
