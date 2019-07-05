@@ -6,9 +6,9 @@
     "version": "1.3.3"
   },
   "darwin-x64-beta": {
-    "readme": "1.3.3",
+    "readme": "1.4.1",
     "update": "https://adguardteam.github.io/AdGuardForSafari/updates/beta/release.json",
-    "install": "https://github.com/AdguardTeam/AdGuardForSafari/releases/download/v1.3.3/AdGuard.for.Safari.Beta.app.zip",
-    "version": "1.3.3"
+    "install": "https://github.com/AdguardTeam/AdGuardForSafari/releases/download/v1.4.1-beta/AdGuard.for.Safari.Beta.app.zip",
+    "version": "1.4.1"
   }
 }
