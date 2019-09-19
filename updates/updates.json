@@ -1,9 +1,9 @@
 {
   "darwin-x64-prod": {
-    "readme": "1.4.1",
-    "update": "https://adguardteam.github.io/AdGuardForSafari/updates/prod/release.json",
-    "install": "https://github.com/AdguardTeam/AdGuardForSafari/releases/download/v1.4.1/AdGuard.for.Safari.app.zip",
-    "version": "1.4.1"
+    "readme": "Standalone release",
+    "update": "https://static.adguard.com/safari/release/release.json",
+    "install": "https://static.adguard.com/safari/release/AdGuard_Safari.app.zip",
+    "version": "1.5.4"
   },
   "darwin-x64-beta": {
     "readme": "Standalone beta",
